@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.rozinroyal.twa",
+    "sha256_cert_fingerprints": ["0A:95:0A:62:E7:35:BE:61:3D:A3:9D:8C:33:6F:E5:2B:FC:D8:2A:02:E5:8F:2C:A3:D1:5F:7D:20:CE:69:1C:C2"]
+  }
+}]
